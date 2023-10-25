@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsVHyRH+/eX2Yh5K6Maax6wzjSmpMkJPyDGYfKd7apRn6HJ9xH50j76E7W8JJ4J6DWyoSwf0yvZL6RDYRw9AJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpdeb\\OneDrive\\Área de Trabalho\\AcessLoginExport\\BaixarExcel\\BaixarExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpdeb\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\selenium.support\\4.14.1\\selenium.support.4.14.1.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\selenium.webdriver\\4.14.1\\selenium.webdriver.4.14.1.nupkg.sha512",
+    "C:\\Users\\jpdeb\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

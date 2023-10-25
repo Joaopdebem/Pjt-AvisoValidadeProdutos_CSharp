@@ -1,0 +1,11 @@
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AvisoValidade.exe
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AvisoValidade.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AvisoValidade.deps.json
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AvisoValidade.runtimeconfig.json
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AvisoValidade.pdb
+C:\Users\jpdeb\OneDrive\Área de Trabalho\ClosedXML.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\DocumentFormat.OpenXml.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\ExcelNumberFormat.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\Irony.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\SixLabors.Fonts.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\XLParser.dll

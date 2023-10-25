@@ -1,0 +1,85 @@
+C:\Dev\BaixarExcel\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Dev\BaixarExcel\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Dev\BaixarExcel\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Dev\BaixarExcel\bin\Debug\net6.0\BaixarExcel.exe
+C:\Dev\BaixarExcel\bin\Debug\net6.0\BaixarExcel.deps.json
+C:\Dev\BaixarExcel\bin\Debug\net6.0\BaixarExcel.runtimeconfig.json
+C:\Dev\BaixarExcel\bin\Debug\net6.0\BaixarExcel.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\BaixarExcel.pdb
+C:\Dev\BaixarExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\WebDriver.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.AssemblyReference.cache
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.AssemblyInfoInputs.cache
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.AssemblyInfo.cs
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.CoreCompileInputs.cache
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.CopyComplete
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.dll
+C:\Dev\BaixarExcel\obj\Debug\net6.0\refint\BaixarExcel.dll
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.pdb
+C:\Dev\BaixarExcel\obj\Debug\net6.0\BaixarExcel.genruntimeconfig.cache
+C:\Dev\BaixarExcel\obj\Debug\net6.0\ref\BaixarExcel.dll
+C:\Dev\BaixarExcel\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.exe
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.deps.json
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.runtimeconfig.json
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.pdb
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\WebDriver.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Dev\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.AssemblyReference.cache
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.AssemblyInfoInputs.cache
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.AssemblyInfo.cs
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.CoreCompileInputs.cache
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.CopyComplete
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.dll
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\refint\BaixarExcel.dll
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.pdb
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.genruntimeconfig.cache
+C:\Dev\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\ref\BaixarExcel.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.AssemblyReference.cache
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.AssemblyInfoInputs.cache
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.AssemblyInfo.cs
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.CoreCompileInputs.cache
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.exe
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.deps.json
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.runtimeconfig.json
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\BaixarExcel.pdb
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\WebDriver.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.csproj.CopyComplete
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\refint\BaixarExcel.dll
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.pdb
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\BaixarExcel.genruntimeconfig.cache
+C:\Users\jpdeb\OneDrive\Área de Trabalho\AcessLoginExport\BaixarExcel\obj\Debug\net6.0\ref\BaixarExcel.dll
